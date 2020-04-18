@@ -1,11 +1,11 @@
-package com.zou;
+﻿package com.zou;
 
 /**
  * 医院挂号
  * @author Administrator
  * @date 2020年4月18日
  */
-public class Hospitalregister {
+public class HospitalRegister {
 	
 	public static void main(String[] args) {
 		//允许挂号时间
